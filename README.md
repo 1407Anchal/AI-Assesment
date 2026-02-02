@@ -11,14 +11,14 @@ This repository contains the full stack Ethara AI Assessment project, including:
 4. Now User sends this AI generated response to Node JS Api and NOde JS uses Pupeeteer to process web automation.
 
 **How it runs Locally**:
-1 Frontend (React) : 
-  1. npm install
-  2. npm start
-2. LLM Engine (Python):
+**1 Frontend (React)** : 
+    1. npm install
+    2. npm start
+**2. LLM Engine (Python)**:
    1. ollama pull llama3
    2. ollama run llama3
    3. python test2.py
-3. Backend (Node JS):
+**3. Backend (Node JS)**:
      1. node server.js
   
 **NOTE: You can add your facebook creadentials also. But I create a demo credentials so you can use:
