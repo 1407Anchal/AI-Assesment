@@ -10,7 +10,7 @@ This repository contains the full stack Ethara AI Assessment project, including:
 2. Frontend sends user query to llm engine that create a mock json i.e. generate AI response using Ollama and send it back to user.
 4. Now User sends this AI generated response to Node JS Api and NOde JS uses Pupeeteer to process web automation.
 
-How it runs Locally:
+**How it runs Locally**:
 1 Frontend (React) : 
   1. npm install
   2. npm start
